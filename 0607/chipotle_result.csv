@@ -1,0 +1,239 @@
+,item_name,source,count
+0,6 Pack Soft Drink,Coke,21
+1,6 Pack Soft Drink,Diet Coke,24
+2,6 Pack Soft Drink,Lemonade,2
+3,6 Pack Soft Drink,Nestea,2
+4,6 Pack Soft Drink,Sprite,5
+5,Barbacoa Bowl,Fresh Tomato (Mild),2
+6,Barbacoa Bowl,Fresh Tomato Salsa,17
+7,Barbacoa Bowl,Fresh Tomato Salsa (Mild),4
+8,Barbacoa Bowl,Guacamole,1
+9,Barbacoa Bowl,Rice,1
+10,Barbacoa Bowl,Roasted Chili Corn Salsa,10
+11,Barbacoa Bowl,Roasted Chili Corn Salsa (Medium),1
+12,Barbacoa Bowl,Tomatillo Green Chili Salsa,3
+13,Barbacoa Bowl,Tomatillo Red Chili Salsa,18
+14,Barbacoa Bowl,TomatilloGreen Chili Salsa (Medium),5
+15,Barbacoa Bowl,TomatilloRed Chili Salsa (Hot),4
+16,Barbacoa Burrito,Black Beans,1
+17,Barbacoa Burrito,Fresh Tomato (Mild),2
+18,Barbacoa Burrito,Fresh Tomato Salsa,15
+19,Barbacoa Burrito,Fresh Tomato Salsa (Mild),3
+20,Barbacoa Burrito,Roasted Chili Corn Salsa,21
+21,Barbacoa Burrito,Roasted Chili Corn Salsa (Medium),5
+22,Barbacoa Burrito,Tomatillo Green Chili Salsa,9
+23,Barbacoa Burrito,Tomatillo Red Chili Salsa,23
+24,Barbacoa Burrito,TomatilloGreen Chili Salsa (Medium),6
+25,Barbacoa Burrito,TomatilloRed Chili Salsa (Hot),6
+26,Barbacoa Crispy Tacos,Fresh Tomato Salsa,4
+27,Barbacoa Crispy Tacos,Fresh Tomato Salsa (Mild),1
+28,Barbacoa Crispy Tacos,Roasted Chili Corn Salsa,3
+29,Barbacoa Crispy Tacos,Roasted Chili Corn Salsa (Medium),1
+30,Barbacoa Crispy Tacos,Tomatillo Red Chili Salsa,1
+31,Barbacoa Crispy Tacos,TomatilloRed Chili Salsa (Hot),1
+32,Barbacoa Salad Bowl,Fresh Tomato Salsa,5
+33,Barbacoa Salad Bowl,Roasted Chili Corn Salsa,2
+34,Barbacoa Salad Bowl,Tomatillo Green Chili Salsa,2
+35,Barbacoa Salad Bowl,Tomatillo Red Chili Salsa,1
+36,Barbacoa Soft Tacos,Fresh Tomato Salsa,3
+37,Barbacoa Soft Tacos,Fresh Tomato Salsa (Mild),1
+38,Barbacoa Soft Tacos,Roasted Chili Corn Salsa,5
+39,Barbacoa Soft Tacos,Tomatillo Green Chili Salsa,2
+40,Barbacoa Soft Tacos,Tomatillo Red Chili Salsa,12
+41,Barbacoa Soft Tacos,TomatilloRed Chili Salsa (Hot),2
+42,Bottled Water,origin,162
+43,Bowl,AdoboMarinated and Grilled Steak,1
+44,Bowl,Braised Carnitas,1
+45,Burrito,AdoboMarinated and Grilled Chicken,2
+46,Burrito,Braised Barbacoa,2
+47,Burrito,White Rice,2
+48,Canned Soda,Coca Cola,26
+49,Canned Soda,Diet Coke,15
+50,Canned Soda,Diet Dr Pepper,13
+51,Canned Soda,Dr Pepper,18
+52,Canned Soda,Mountain Dew,15
+53,Canned Soda,Sprite,17
+54,Canned Soft Drink,Coke,102
+55,Canned Soft Drink,Diet Coke,95
+56,Canned Soft Drink,Lemonade,31
+57,Canned Soft Drink,Nestea,18
+58,Canned Soft Drink,Sprite,55
+59,Carnitas Bowl,Fresh Tomato (Mild),3
+60,Carnitas Bowl,Fresh Tomato Salsa,23
+61,Carnitas Bowl,Fresh Tomato Salsa (Mild),6
+62,Carnitas Bowl,Roasted Chili Corn Salsa,12
+63,Carnitas Bowl,Roasted Chili Corn Salsa (Medium),7
+64,Carnitas Bowl,Tomatillo Green Chili Salsa,6
+65,Carnitas Bowl,Tomatillo Red Chili Salsa,3
+66,Carnitas Bowl,TomatilloRed Chili Salsa (Hot),8
+67,Carnitas Burrito,Fresh Tomato (Mild),3
+68,Carnitas Burrito,Fresh Tomato Salsa,25
+69,Carnitas Burrito,Fresh Tomato Salsa (Mild),6
+70,Carnitas Burrito,Roasted Chili Corn Salsa,6
+71,Carnitas Burrito,Roasted Chili Corn Salsa (Medium),1
+72,Carnitas Burrito,Tomatillo Green Chili Salsa,9
+73,Carnitas Burrito,Tomatillo Red Chili Salsa,5
+74,Carnitas Burrito,TomatilloGreen Chili Salsa (Medium),1
+75,Carnitas Burrito,TomatilloRed Chili Salsa (Hot),3
+76,Carnitas Crispy Tacos,Fresh Tomato Salsa,2
+77,Carnitas Crispy Tacos,Fresh Tomato Salsa (Mild),1
+78,Carnitas Crispy Tacos,Roasted Chili Corn Salsa,1
+79,Carnitas Crispy Tacos,Tomatillo Green Chili Salsa,1
+80,Carnitas Crispy Tacos,TomatilloGreen Chili Salsa (Medium),1
+81,Carnitas Crispy Tacos,TomatilloRed Chili Salsa (Hot),1
+82,Carnitas Salad,Fresh Tomato Salsa (Mild),1
+83,Carnitas Salad Bowl,Fresh Tomato Salsa,2
+84,Carnitas Salad Bowl,Roasted Chili Corn Salsa,2
+85,Carnitas Salad Bowl,Tomatillo Green Chili Salsa,2
+86,Carnitas Soft Tacos,Fresh Tomato Salsa,8
+87,Carnitas Soft Tacos,Fresh Tomato Salsa (Mild),4
+88,Carnitas Soft Tacos,Roasted Chili Corn Salsa,12
+89,Carnitas Soft Tacos,Roasted Chili Corn Salsa (Medium),1
+90,Carnitas Soft Tacos,Tomatillo Green Chili Salsa,3
+91,Carnitas Soft Tacos,Tomatillo Red Chili Salsa,11
+92,Carnitas Soft Tacos,TomatilloRed Chili Salsa (Hot),1
+93,Chicken Bowl,Fresh Tomato (Mild),4
+94,Chicken Bowl,Fresh Tomato Salsa,324
+95,Chicken Bowl,Fresh Tomato Salsa (Mild),70
+96,Chicken Bowl,Roasted Chili Corn Salsa,106
+97,Chicken Bowl,Roasted Chili Corn Salsa (Medium),41
+98,Chicken Bowl,Tomatillo Green Chili Salsa,65
+99,Chicken Bowl,Tomatillo Red Chili Salsa,61
+100,Chicken Bowl,TomatilloGreen Chili Salsa (Medium),13
+101,Chicken Bowl,TomatilloRed Chili Salsa (Hot),40
+102,Chicken Bowl,White Rice,2
+103,Chicken Burrito,Fresh Tomato (Mild),6
+104,Chicken Burrito,Fresh Tomato Salsa,208
+105,Chicken Burrito,Fresh Tomato Salsa (Mild),55
+106,Chicken Burrito,Lettuce,3
+107,Chicken Burrito,Rice,3
+108,Chicken Burrito,Roasted Chili Corn (Medium),1
+109,Chicken Burrito,Roasted Chili Corn Salsa,67
+110,Chicken Burrito,Roasted Chili Corn Salsa (Medium),33
+111,Chicken Burrito,Tomatillo Green Chili (Medium),1
+112,Chicken Burrito,Tomatillo Green Chili Salsa,40
+113,Chicken Burrito,Tomatillo Red Chili (Hot),1
+114,Chicken Burrito,Tomatillo Red Chili Salsa,72
+115,Chicken Burrito,TomatilloGreen Chili Salsa (Medium),29
+116,Chicken Burrito,TomatilloRed Chili Salsa (Hot),34
+117,Chicken Crispy Tacos,Fresh Tomato Salsa,15
+118,Chicken Crispy Tacos,Fresh Tomato Salsa (Mild),6
+119,Chicken Crispy Tacos,Roasted Chili Corn Salsa,12
+120,Chicken Crispy Tacos,Roasted Chili Corn Salsa (Medium),3
+121,Chicken Crispy Tacos,Tomatillo Green Chili Salsa,1
+122,Chicken Crispy Tacos,Tomatillo Red Chili Salsa,9
+123,Chicken Crispy Tacos,TomatilloGreen Chili Salsa (Medium),1
+124,Chicken Salad,Fresh Tomato Salsa (Mild),6
+125,Chicken Salad,Roasted Chili Corn (Medium),1
+126,Chicken Salad,Roasted Chili Corn Salsa (Medium),1
+127,Chicken Salad,TomatilloGreen Chili Salsa (Medium),1
+128,Chicken Salad Bowl,Fresh Tomato Salsa,71
+129,Chicken Salad Bowl,Roasted Chili Corn Salsa,21
+130,Chicken Salad Bowl,Tomatillo Green Chili Salsa,12
+131,Chicken Salad Bowl,Tomatillo Red Chili Salsa,6
+132,Chicken Soft Tacos,Fresh Tomato Salsa,36
+133,Chicken Soft Tacos,Fresh Tomato Salsa (Mild),17
+134,Chicken Soft Tacos,Roasted Chili Corn Salsa,29
+135,Chicken Soft Tacos,Roasted Chili Corn Salsa (Medium),3
+136,Chicken Soft Tacos,Tomatillo Green Chili Salsa,4
+137,Chicken Soft Tacos,Tomatillo Red Chili Salsa,13
+138,Chicken Soft Tacos,TomatilloGreen Chili Salsa (Medium),3
+139,Chicken Soft Tacos,TomatilloRed Chili Salsa (Hot),10
+140,Chips,origin,211
+141,Chips and Fresh Tomato Salsa,origin,110
+142,Chips and Guacamole,origin,479
+143,Chips and Mild Fresh Tomato Salsa,origin,1
+144,Chips and Roasted Chili Corn Salsa,origin,22
+145,Chips and Roasted Chili-Corn Salsa,origin,18
+146,Chips and Tomatillo Green Chili Salsa,origin,43
+147,Chips and Tomatillo Red Chili Salsa,origin,48
+148,Chips and Tomatillo-Green Chili Salsa,origin,31
+149,Chips and Tomatillo-Red Chili Salsa,origin,20
+150,Crispy Tacos,AdoboMarinated and Grilled Chicken,1
+151,Crispy Tacos,AdoboMarinated and Grilled Steak,1
+152,Izze,Blackberry,8
+153,Izze,Clementine,8
+154,Izze,Grapefruit,4
+155,Nantucket Nectar,Apple,6
+156,Nantucket Nectar,Peach Orange,8
+157,Nantucket Nectar,Pineapple Orange Banana,8
+158,Nantucket Nectar,Pomegranate Cherry,5
+159,Salad,Brown Rice,1
+160,Salad,White Rice,1
+161,Side of Chips,origin,101
+162,Steak Bowl,Fresh Tomato (Mild),4
+163,Steak Bowl,Fresh Tomato Salsa,69
+164,Steak Bowl,Fresh Tomato Salsa (Mild),22
+165,Steak Bowl,Rice,1
+166,Steak Bowl,Roasted Chili Corn Salsa,41
+167,Steak Bowl,Roasted Chili Corn Salsa (Medium),19
+168,Steak Bowl,Tomatillo Green Chili (Medium),1
+169,Steak Bowl,Tomatillo Green Chili Salsa,18
+170,Steak Bowl,Tomatillo Red Chili Salsa,22
+171,Steak Bowl,TomatilloGreen Chili Salsa (Medium),3
+172,Steak Bowl,TomatilloRed Chili Salsa (Hot),11
+173,Steak Burrito,Brown Rice,1
+174,Steak Burrito,Fresh Tomato (Mild),6
+175,Steak Burrito,Fresh Tomato Salsa,94
+176,Steak Burrito,Fresh Tomato Salsa (Mild),54
+177,Steak Burrito,Lettuce,4
+178,Steak Burrito,Rice,1
+179,Steak Burrito,Roasted Chili Corn (Medium),1
+180,Steak Burrito,Roasted Chili Corn Salsa,53
+181,Steak Burrito,Roasted Chili Corn Salsa (Medium),48
+182,Steak Burrito,Tomatillo Green Chili Salsa,34
+183,Steak Burrito,Tomatillo Red Chili (Hot),2
+184,Steak Burrito,Tomatillo Red Chili Salsa,36
+185,Steak Burrito,TomatilloGreen Chili Salsa (Medium),13
+186,Steak Burrito,TomatilloRed Chili Salsa (Hot),21
+187,Steak Crispy Tacos,Fresh Tomato (Mild),1
+188,Steak Crispy Tacos,Fresh Tomato Salsa,11
+189,Steak Crispy Tacos,Fresh Tomato Salsa (Mild),2
+190,Steak Crispy Tacos,Roasted Chili Corn Salsa,7
+191,Steak Crispy Tacos,Roasted Chili Corn Salsa (Medium),2
+192,Steak Crispy Tacos,Tomatillo Green Chili Salsa,3
+193,Steak Crispy Tacos,Tomatillo Red Chili Salsa,4
+194,Steak Crispy Tacos,TomatilloGreen Chili Salsa (Medium),1
+195,Steak Crispy Tacos,TomatilloRed Chili Salsa (Hot),4
+196,Steak Salad,Fresh Tomato Salsa (Mild),1
+197,Steak Salad,Lettuce,1
+198,Steak Salad,TomatilloRed Chili Salsa (Hot),2
+199,Steak Salad Bowl,Fresh Tomato Salsa,17
+200,Steak Salad Bowl,Roasted Chili Corn Salsa,9
+201,Steak Salad Bowl,Tomatillo Red Chili Salsa,3
+202,Steak Soft Tacos,Fresh Tomato Salsa,24
+203,Steak Soft Tacos,Fresh Tomato Salsa (Mild),5
+204,Steak Soft Tacos,Roasted Chili Corn Salsa,5
+205,Steak Soft Tacos,Roasted Chili Corn Salsa (Medium),3
+206,Steak Soft Tacos,Tomatillo Green Chili Salsa,6
+207,Steak Soft Tacos,Tomatillo Red Chili Salsa,3
+208,Steak Soft Tacos,TomatilloGreen Chili Salsa (Medium),4
+209,Steak Soft Tacos,TomatilloRed Chili Salsa (Hot),5
+210,Veggie Bowl,Fresh Tomato Salsa,30
+211,Veggie Bowl,Fresh Tomato Salsa (Mild),14
+212,Veggie Bowl,Roasted Chili Corn Salsa,23
+213,Veggie Bowl,Roasted Chili Corn Salsa (Medium),1
+214,Veggie Bowl,Tomatillo Green Chili Salsa,3
+215,Veggie Bowl,Tomatillo Red Chili Salsa,9
+216,Veggie Bowl,TomatilloGreen Chili Salsa (Medium),3
+217,Veggie Bowl,TomatilloRed Chili Salsa (Hot),2
+218,Veggie Burrito,Fresh Tomato Salsa,29
+219,Veggie Burrito,Fresh Tomato Salsa (Mild),34
+220,Veggie Burrito,Roasted Chili Corn Salsa,7
+221,Veggie Burrito,Roasted Chili Corn Salsa (Medium),4
+222,Veggie Burrito,Tomatillo Green Chili Salsa,6
+223,Veggie Burrito,Tomatillo Red Chili Salsa,9
+224,Veggie Burrito,TomatilloGreen Chili Salsa (Medium),6
+225,Veggie Crispy Tacos,Fresh Tomato Salsa (Mild),1
+226,Veggie Salad,Fresh Tomato Salsa (Mild),3
+227,Veggie Salad,Roasted Chili Corn Salsa (Medium),1
+228,Veggie Salad,TomatilloGreen Chili Salsa (Medium),2
+229,Veggie Salad Bowl,Fresh Tomato Salsa,12
+230,Veggie Salad Bowl,Roasted Chili Corn Salsa,2
+231,Veggie Salad Bowl,Tomatillo Green Chili Salsa,1
+232,Veggie Salad Bowl,Tomatillo Red Chili Salsa,3
+233,Veggie Soft Tacos,Fresh Tomato Salsa,2
+234,Veggie Soft Tacos,Fresh Tomato Salsa (Mild),2
+235,Veggie Soft Tacos,Roasted Chili Corn Salsa,1
+236,Veggie Soft Tacos,Roasted Chili Corn Salsa (Medium),1
+237,Veggie Soft Tacos,Tomatillo Red Chili Salsa,1
